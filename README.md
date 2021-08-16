@@ -31,6 +31,6 @@ Seu conselho, suas dicas e oportunidades são muito bem vindas!
 
 <div>
   <a href="https://github.com/SilvanaMenezes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanamenezes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanamenezes&layout=compact&langs_count=7&theme=white"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silvanamenezes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanamenezes&layout=compact&langs_count=7&theme=white"/>
 </div>
