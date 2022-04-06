@@ -27,7 +27,7 @@ Seu conselho, suas dicas e oportunidades são muito bem vindas aqui!
 [![Git](https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![VS Code](https://camo.githubusercontent.com/172928ac3c9728873cd5b523a74d06dd7f115f386574b5b19ef7b4086d9a67b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f267374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 
-<div display="inline-block">
+<div display="inline-block" box-sizing: "border-box">
   <a href="https://github.com/SilvanaMenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanamenezes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanamenezes&layout=compact&langs_count=7&theme=white"/>
