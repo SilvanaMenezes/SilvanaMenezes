@@ -4,16 +4,14 @@ Sou uma mulher que está em transição de carreira.
 
 Em meu Linkedin você vai encontrar minhas experiências profissionais em Recursos Humanos, que foi a  última área em que atuei, encerrando esse ciclo em meados de 2017. De lá pra cá muita coisa aconteceu e uma delas foi iniciar minha transição de carreira, para tecnologia.
 
-Comecei a me informar sobre a área, participei de alguns Meetups, fiz um curso de imersão a Programação Full Stack e estou engajada a seguir uma carreia de Desenvolvedora Web.
+Atualmente curso a faculdade de tecnologia <strong>FATEC - Desenvolvimento de Software Multiplataforma.</strong>
 
- Ainda não possuo experiências expressivas na área, por aqui você vai encontrar alguns códigos de tudo que estou estudando. Desejo uma oportunidade para mostrar minha garra em aprender, uma chance de trabalhar de perto com desenvolvedores que possam me orientar e ensinar a trilhar o caminho da programação.
-Sei trabalhar em equipe, trato minhas atividade com dedicação, seriedade e comprometimento.
 
 Seu conselho, suas dicas e oportunidades são muito bem vindas aqui!
 
 😃 quer entrar em contato comigo? Escolha.
 
-[![Linkedin](https://camo.githubusercontent.com/b002fce2f8fd8abe1c3d30f1385270d8f4708a3d0479a6728fc8276f9a2b3ad5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f746174696465762f)](https://www.linkedin.com/in/silvana-sales-de-menezes-99396594/)
+[![Linkedin](https://camo.githubusercontent.com/b002fce2f8fd8abe1c3d30f1385270d8f4708a3d0479a6728fc8276f9a2b3ad5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f746174696465762f)](https://www.linkedin.com/in/silvana-sales-de-menezes)
 [![Gmail](https://camo.githubusercontent.com/9e6067c6e6f32823a4540e098054388c5220b68b3d8269e4921b50713bb96bfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7461746969616c7665736f40676d61696c2e636f6d)](mailto:silvanadev.one@gmail.com)
 ##
 
@@ -32,4 +30,3 @@ Seu conselho, suas dicas e oportunidades são muito bem vindas aqui!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvanamenezes&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanamenezes&layout=compact&langs_count=7&theme=white"/>
 </div>
-
