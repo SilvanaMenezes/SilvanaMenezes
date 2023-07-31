@@ -1,11 +1,10 @@
 ## Olá tudo bem? Eu sou a Silvana!
 
-Sou uma mulher que está em transição de carreira.
+Sou estudante da 3º semestre do curso de <strong>Desenvolvimento de Software Multiplataforma</strong> da faculdade <strong>Fatec Zona Sul</strong> em São Paulo.
 
-Em meu Linkedin você vai encontrar minhas experiências profissionais em Recursos Humanos, que foi a  última área em que atuei, encerrando esse ciclo em meados de 2017. De lá pra cá muita coisa aconteceu e uma delas foi iniciar minha transição de carreira, para tecnologia.
+Meu objetivo profissional é me tornar uma Desenvolvedora Web com foco em Frontend, para isso, sei o quanto é importante desenvolver as habilidades técnicas dessa função e por isso tenho estudado e feito projetos com HTML5, CSS3, Javascript e React.
 
-Atualmente curso a faculdade de tecnologia <strong>FATEC - Desenvolvimento de Software Multiplataforma.</strong>
-
+Em meu Linkedin você vai encontrar minhas experiências profissionais em Recursos Humanos, que foi a  última área em que atuei, encerrando esse ciclo em meados de 2017, durante esse período desenvolvi habilidades como atendimento ao cliente, trabalho em equipe, gestão do tempo e negociação.
 
 Seu conselho, suas dicas e oportunidades são muito bem vindas aqui!
 
