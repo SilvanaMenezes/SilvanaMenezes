@@ -1,6 +1,6 @@
 ## Olá tudo bem? Eu sou a Silvana!
 
-Sou estudante da 3º semestre do curso de <strong>Desenvolvimento de Software Multiplataforma</strong> da faculdade <strong>Fatec Zona Sul</strong> em São Paulo.
+Sou estudante do 3º semestre do curso de <strong>Desenvolvimento de Software Multiplataforma</strong> da faculdade <strong>Fatec Zona Sul</strong> em São Paulo.
 
 Aqui você vai encontrar os projetos pessoais e acadêmicos que tenho trabalhado para desenvolver as habilidades técnicas necessárias para me tornar uma Desenvolvedora Web com foco em Frontend.
 
